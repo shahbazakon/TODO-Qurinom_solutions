@@ -2,14 +2,6 @@
 
 
 
-[![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](/https://github.com/shubham-chhimpa/done_it/LICENSE.md)
-![Github Followers](https://img.shields.io/github/followers/shubham-chhimpa?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/shubham-chhimpa/done_it?style=social)
-![GitHub forks](https://img.shields.io/github/forks/shubham-chhimpa/done_it?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/shubham-chhimpa/done_it?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/shubham_chhimpa?label=Follow&style=social)
-
-
 ## About
 
 It simply loads **Notes** data from in memory database. Notes will be always loaded from in memor database.
